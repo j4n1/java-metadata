@@ -550,5 +550,28 @@
     "url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-linux-aarch64.tar.gz",
     "vendor": "microsoft",
     "version": "17.35.1"
+  },
+  {
+    "architecture": "aarch64",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "microsoft-jdk-21.0.0-linux-aarch64.tar.gz",
+    "image_type": "jdk",
+    "java_version": "21.0.0",
+    "jvm_impl": "hotspot",
+    "md5": "e62fd8dc1789bcf9b3795c0e4843f541",
+    "md5_file": "microsoft-jdk-21.0.0-linux-aarch64.tar.gz.md5",
+    "os": "linux",
+    "release_type": "ga",
+    "sha1": "2eaf43dca2c592ca5fa83c44f8d6c888549ffdec",
+    "sha1_file": "microsoft-jdk-21.0.0-linux-aarch64.tar.gz.sha1",
+    "sha256": "aae2ec0b9d021aead6c3e49f76cc536b4f58b36ba4bda7cd8a4dc827905d9e58",
+    "sha256_file": "microsoft-jdk-21.0.0-linux-aarch64.tar.gz.sha256",
+    "sha512": "b1e1392cdbc2c179302f1044ed604a511d395666c7da3e75c72b63f4050d0f2326e7e22efb020bb9b31a8bd4346974f160039e0dbd5c0089e38e5bb244af5bef",
+    "sha512_file": "microsoft-jdk-21.0.0-linux-aarch64.tar.gz.sha512",
+    "size": 44940,
+    "url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-linux-aarch64.tar.gz",
+    "vendor": "microsoft",
+    "version": "21.0.0"
   }
 ]
