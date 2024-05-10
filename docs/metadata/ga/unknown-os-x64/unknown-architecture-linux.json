@@ -507,6 +507,29 @@
   },
   {
     "architecture": "unknown-architecture-linux",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz",
+    "image_type": "jdk",
+    "java_version": "11.0.23.19.9",
+    "jvm_impl": "hotspot",
+    "md5": "c3c4145eccd8e9711f904ec3a79086f2",
+    "md5_file": "Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz.md5",
+    "os": "unknown-os-x64",
+    "release_type": "ga",
+    "sha1": "8b48fe722bf5dd13ec841ba873facd6c26c15620",
+    "sha1_file": "Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz.sha1",
+    "sha256": "87a5e476ee6115261e5face7cd081cd27719c8495bdc5b8b2e1304baeca5e9d9",
+    "sha256_file": "Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz.sha256",
+    "sha512": "d6ea8fd4d308b63463754ad723b34a0b14791b95b3b4fa193f6d8231a88a4e854f72296e93a78ad3e4514cbdb529fd119c0471442bfd6a29602b1c074ad35c00",
+    "sha512_file": "Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz.sha512",
+    "size": 195344110,
+    "url": "https://github.com/dragonwell-project/dragonwell11/releases/download/dragonwell-standard-11.0.23.19_jdk-11.0.23-ga/Alibaba_Dragonwell_Standard_11.0.23.19.9_x64_linux.tar.gz",
+    "vendor": "dragonwell",
+    "version": "11.0.23.19.9"
+  },
+  {
+    "architecture": "unknown-architecture-linux",
     "features": [
       "musl"
     ],
@@ -1001,5 +1024,28 @@
     "url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.18.19_jdk8u402-ga/Alibaba_Dragonwell_Standard_8.18.19_x64_linux.tar.gz",
     "vendor": "dragonwell",
     "version": "8.18.19"
+  },
+  {
+    "architecture": "unknown-architecture-linux",
+    "features": [],
+    "file_type": "tar.gz",
+    "filename": "Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz",
+    "image_type": "jdk",
+    "java_version": "8.19.20",
+    "jvm_impl": "hotspot",
+    "md5": "2e569f50deac268e8733daf9642dedb9",
+    "md5_file": "Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz.md5",
+    "os": "unknown-os-x64",
+    "release_type": "ga",
+    "sha1": "854cd0fa5273c78a70b05f2d0747a191a303ccec",
+    "sha1_file": "Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz.sha1",
+    "sha256": "adce5313f61927f66c52404d76304cee1f5f994bf31a0755ba303ab359add183",
+    "sha256_file": "Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz.sha256",
+    "sha512": "1178b9c3efe1806c5b152236a5a3b18801959551d8ecf7507200024004e9dee8238cdb92af5478d244af6fc433e456aa4803282539e765e068f1a9925b579d84",
+    "sha512_file": "Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz.sha512",
+    "size": 102769410,
+    "url": "https://github.com/dragonwell-project/dragonwell8/releases/download/dragonwell-standard-8.19.20_jdk8u412-ga/Alibaba_Dragonwell_Standard_8.19.20_x64_linux.tar.gz",
+    "vendor": "dragonwell",
+    "version": "8.19.20"
   }
 ]
